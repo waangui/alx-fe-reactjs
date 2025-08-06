@@ -17,7 +17,7 @@ import { useState } from 'react';
      };
 
      return (
-       <div style={{ padding: '20px' }}>
+       <div style={{ padding: '20px', backgroundColor: '#DEE3EE' }}>
          <h1>Contact Us</h1>
          <form onSubmit={handleSubmit}>
            <input
